@@ -16,10 +16,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshal-dongre-886548137/" target="_blank" >
+  
+  <a href="https://www.linkedin.com/in/harshal-dongare/" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="42" alt="linkedin logo"  />
   </a>
-  <a href="myeducationalarena@gmail.com" target="_blank">
+  <a href="harshaldongare.corp@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="92" height="42" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_harshu0017/" target="_blank">
