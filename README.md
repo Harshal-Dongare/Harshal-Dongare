@@ -39,6 +39,17 @@ Currently, I am transitioning into the field of Data Analytics, learning Python,
 <h2 align="center">LANGUAGES AND TOOLS</h2>
 
 <div align="center">
+  <!-- Data Analytics Tools -->
+  <img src="https://img.icons8.com/?size=256&id=117561&format=png" height="42" alt="power bi logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=256&id=3sGOUDo9nJ4k&format=png" height="42" alt="excel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
+  
+  <!-- Development Tools -->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
@@ -49,15 +60,7 @@ Currently, I am transitioning into the field of Data Analytics, learning Python,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Power_BI_logo.svg" height="42" alt="power bi logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="42" alt="excel logo"  />
 </div>
 
 ###
