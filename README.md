@@ -10,7 +10,7 @@
 
 <p align="left"><b>About Me:</b><br>
 I am a former Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.  
-Currently, I am transitioning into the field of Data Analytics, learning Python, SQL, and data visualization tools to enhance my problem-solving skills and uncover insights from data.
+Currently, I am transitioning into the field of Data Analytics, learning Python, SQL, Power BI, and Excel to uncover insights from data.
 </p>
 <ul>
   <li>Passionate about building intuitive user interfaces and solving real-world problems with data-driven approaches.</li>
@@ -54,6 +54,10 @@ Currently, I am transitioning into the field of Data Analytics, learning Python,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" height="42" alt="power bi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="excel logo"  />
 </div>
 
 ###
