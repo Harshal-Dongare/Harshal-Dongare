@@ -4,27 +4,30 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Harshal Dongare. <br>I'm a front-end developer</h2>
+<h2 align="center">Hi 👋! My name is Harshal Dongare.<br>I'm a Developer Exploring Data Analytics</h2>
 
 ###
 
-<p align="left">About Me:<br>Aspiring Frontend Developer eager to learn and create. Proficient in HTML, CSS, and JavaScript.</p><ul><li>Eager to kick-start my career in creating awesome websites.</li><li>Share knowledge through Linkedin and twitter.
-</li></ul><br>
-
-<h2 align="center">CONNECT WITH ME </h2>
+<p align="left"><b>About Me:</b><br>
+I am a former Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.  
+Currently, I am transitioning into the field of Data Analytics, learning Python, SQL, and data visualization tools to enhance my problem-solving skills and uncover insights from data.
+</p>
+<ul>
+  <li>Passionate about building intuitive user interfaces and solving real-world problems with data-driven approaches.</li>
+  <li>Continuously learning and improving my skills in development and analytics.</li>
+  <li>Sharing knowledge on <a href="https://www.linkedin.com/in/harshal-dongare/">LinkedIn</a> and <a href="https://twitter.com/heyyHarshal">Twitter</a>.</li>
+</ul>
 
 ###
+
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/harshal-dongare/" target="_blank" >
+  <a href="https://www.linkedin.com/in/harshal-dongare/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="42" alt="linkedin logo"  />
   </a>
-  <a href="harshaldongare.corp@gmail.com" target="_blank">
+  <a href="mailto:harshaldongare.corp@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="92" height="42" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_harshu0017/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="92" height="42" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/heyyHarshal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="92" height="42" alt="twitter logo"  />
@@ -34,8 +37,6 @@
 ###
 
 <h2 align="center">LANGUAGES AND TOOLS</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
@@ -48,21 +49,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="42" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="42" alt="socketio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
 </div>
 
 ###
 
-<br clear="both">
-<br clear="both">
 <br clear="both">
 
 <div align="center">
@@ -70,5 +65,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshal-Dongare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="153" alt="languages graph"  />
 </div>
-
-###
