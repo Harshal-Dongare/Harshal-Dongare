@@ -55,9 +55,9 @@ Currently, I am transitioning into the field of Data Analytics, learning Python,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" height="42" alt="power bi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Power_BI_logo.svg" height="42" alt="power bi logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="excel logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="42" alt="excel logo"  />
 </div>
 
 ###
