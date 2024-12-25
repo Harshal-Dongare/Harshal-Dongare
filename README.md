@@ -8,6 +8,10 @@
 
 ###
 
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Harshal-Dongare&color=grey">
+</p>
+
 <p align="left"><b>About Me:</b><br>
 I am a former Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.  
 Currently, I am transitioning into the field of Data Analytics, learning Python, SQL, Power BI, and Excel to uncover insights from data.
