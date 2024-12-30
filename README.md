@@ -74,5 +74,5 @@ Currently, I am transitioning into the field of Data Analytics, learning Python,
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Harshal-Dongare&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=53" height="150" alt="streak graph"  />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshal-Dongare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="153" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshal-Dongare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="153" alt="languages graph"  />
 </div>
